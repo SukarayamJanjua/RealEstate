@@ -1,5 +1,9 @@
 # [Live Preview](https://main--urbanestj.netlify.app/)
 Developed a comprehensive real estate platform using the MERN stack—MongoDB, Express.js, React, and Node.js—designed to streamline the process of buying, renting, and selling properties online.
+![Screenshot 2024-12-08 155042](https://github.com/user-attachments/assets/a782cbab-4f40-4ecd-8155-0d752056f160)
+![Screenshot 2024-12-08 155131](https://github.com/user-attachments/assets/8adafbc0-e167-4ffb-8acf-39e1107bad72)
+![Screenshot 2024-12-08 155156](https://github.com/user-attachments/assets/28635750-671e-4579-8a86-9874e58b4361)
+![Screenshot 2024-12-08 155247](https://github.com/user-attachments/assets/ea49a530-ad34-4311-b65c-3fe9caf30c49)
 
 ## Key Features:
 ## User Listings:
